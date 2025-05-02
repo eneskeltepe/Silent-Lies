@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: 1aafc7d2b56ccb84cb62a09e27e47ee5
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_BabyGirl_04_pasted__blinn2
+    second: {fileID: 2100000, guid: 766e648df89da7b44b078d9e6052d507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_BabyGirl_04_pasted__blinn4
+    second: {fileID: 2100000, guid: 08da1f2cc544454449fadec8ba82a0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_Shef_03_Mantoo_03_Glass_03_pasted__blinn3
+    second: {fileID: 2100000, guid: 2548e0b25c2909a41a6a0b153687ef8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_Shef_03_Mantoo_03_blinn3
+    second: {fileID: 2100000, guid: e52c82f9f43050c4c838a97e222722b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_pasted__blinn3
+    second: {fileID: 2100000, guid: 004d380dbd49b134f9d83ebd1caceb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baby_rs_glass_inner
+    second: {fileID: 2100000, guid: 1d2947cd8ddb59b47b2e433075d1edf4, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Baby:BabyGirl_04:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftHandIndex1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftHandIndex2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:LeftHandIndex3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightHandIndex1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightHandIndex2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:RightHandIndex3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Baby:BabyGirl_04:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Character mother (1) (1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Tony_02:polySurface147
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -5.3964863, y: 7.141215, z: -8.744405}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 67.23936, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pSphere1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.0048321243, y: 6.0300455, z: -7.6826324}
+      rotation: {x: 0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 26.05657, y: 21.22749, z: 21.22749}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part10
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.6926382, y: 10.047114, z: -8.0552845}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part11
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.3107308, y: 10.9085655, z: -7.2003784}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part12
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.5913911, y: 10.426502, z: -7.645653}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part13
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.7141247, y: 9.673999, z: -8.38462}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part14
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.7645136, y: 9.694539, z: -8.483922}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part15
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.97762007, y: 11.0833435, z: -6.4943876}
+      rotation: {x: 0.89149964, y: -0.34586027, z: 0.2902615, w: 0.036843095}
+      scale: {x: -98.559074, y: -98.55908, z: -98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part17
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.24723527, y: 11.427109, z: -6.483328}
+      rotation: {x: -0.01556626, y: 0.01050461, z: -0.25263932, w: 0.9673783}
+      scale: {x: 132.80084, y: 132.80084, z: 132.80086}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part18
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.12210417, y: 5.4888573, z: -7.604482}
+      rotation: {x: 0.10172395, y: 0.5681732, z: -0.07104704, w: 0.813501}
+      scale: {x: 98.55906, y: 112.72007, z: 46.089252}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part19
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.0493294, y: 5.618527, z: -7.5467596}
+      rotation: {x: 0.87330353, y: 0.000000016617724, z: 0.48717648, w: 0.000000036143966}
+      scale: {x: -98.55908, y: -98.55907, z: -98.55908}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part2
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.55446815, y: 11.155214, z: -6.5124784}
+      rotation: {x: 0.95926905, y: -0.28249407, z: 0.000000082884384, w: -0.00000005429504}
+      scale: {x: -98.55907, y: -98.55907, z: -98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part3
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.012379379, y: 11.428114, z: -6.4219074}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part4
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.15937378, y: 11.2989235, z: -6.5507107}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part5
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.21648693, y: 11.122852, z: -6.4876285}
+      rotation: {x: 0.0032614656, y: -0.008938576, z: -0.1868501, w: 0.98234236}
+      scale: {x: 117.31386, y: 117.31388, z: 117.31387}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part6
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.4899888, y: 11.447786, z: -6.486656}
+      rotation: {x: -0.0077112378, y: 0.017029405, z: -0.12979402, w: 0.9913648}
+      scale: {x: 98.55906, y: 98.55907, z: 98.559074}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part7
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.6546478, y: 10.173001, z: -7.6869617}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part8
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.6692392, y: 10.034167, z: -7.9993777}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__Hair_Part9
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.4271976, y: 10.681997, z: -7.240141}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__LFoot
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.76803833, y: -0.15407515, z: -7.951874}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pasted__LFoot1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.76807433, y: -0.13904572, z: -7.9422784}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:pasted__LShoe
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.75068367, y: -0.7135563, z: -7.652681}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pasted__LShoe1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.7506836, y: -0.7135563, z: -7.652681}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:pasted__LShoeRibbon1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.75018597, y: -0.38122794, z: -8.089936}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pasted__LShoeRibbon2
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.75018597, y: -0.38122794, z: -8.089936}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:pasted__L_EyeLesh
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.7941219, y: 10.253529, z: -6.785227}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:pasted__L_EyeLesh1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.7941219, y: 10.253529, z: -6.7852273}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pasted__L_Topes
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.8592216, y: 9.259662, z: -8.799992}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__R_Tops
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.8471854, y: 9.273011, z: -8.801357}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 98.55907, y: 98.55907, z: 98.55907}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.74712735, y: 0.33443686, z: -8.563306}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 71.49958}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.7479791, y: 0.14541054, z: -8.563306}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 71.49958}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft2
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.7466571, y: 0.017782211, z: -8.563314}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft3
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.74712735, y: 0.33443686, z: -8.552631}
+      rotation: {x: 1, y: 1.3894327e-15, z: 0.00000004371139, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -71.547806}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft4
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.7479791, y: 0.14541054, z: -8.552631}
+      rotation: {x: 1, y: 1.3894327e-15, z: 0.00000004371139, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -71.547806}
+    - name: Baby:BabyGirl_04:pasted__SocksLeft5
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.7466571, y: 0.017782211, z: -8.552731}
+      rotation: {x: 1, y: 1.3894327e-15, z: 0.00000004371139, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -71.547806}
+    - name: Baby:BabyGirl_04:pasted__polySurface1
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.1307595, y: 12.694746, z: -9.395256}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:pasted__polySurface3
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.1307452, y: 12.694753, z: -9.395252}
+      rotation: {x: -0.050032888, y: 0.54781723, z: 0.032846432, w: 0.83445436}
+      scale: {x: 1.0702728, y: 1.0702729, z: 1.1861954}
+    - name: Baby:BabyGirl_04:pasted__polySurface4
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -1.9387165, y: 12.031969, z: -9.738971}
+      rotation: {x: -0.000000050564783, y: 0.548801, z: -0.000000008237673, w: 0.835953}
+      scale: {x: 0.73021805, y: 0.73021805, z: 0.73021805}
+    - name: Baby:BabyGirl_04:pasted__polySurface5
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 1.9386896, y: 12.032081, z: -9.738959}
+      rotation: {x: 1, y: 1.3894322e-15, z: 0.00000004371138, w: 0.00000004371139}
+      scale: {x: -69.55796, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:polySurface147
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 5.3813896, y: 7.1414742, z: -8.746012}
+      rotation: {x: 1, y: 1.3894329e-15, z: 0.000000043711385, w: 0.00000004371139}
+      scale: {x: -67.23936, y: -69.55796, z: -69.55796}
+    - name: Baby:BabyGirl_04:polySurface152
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.0053524096, y: 10.413168, z: -9.104853}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:polySurface153
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.0002744831, y: 9.476188, z: -7.8363333}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:polySurface155
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: -0.000000044703484, y: 6.156116, z: -8.800679}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 70.95655, y: 70.95655, z: 70.95655}
+    - name: Baby:BabyGirl_04:polySurface156
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.007441809, y: 5.717732, z: -8.816492}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 69.55796, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:polySurface157
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.04197482, y: 7.454286, z: -8.41128}
+      rotation: {x: -0.06915101, y: 0, z: -0, w: 0.9976062}
+      scale: {x: 73.833725, y: 69.55796, z: 69.55796}
+    - name: Baby:BabyGirl_04:Hips
+      parentName: Character mother (1) (1)(Clone)
+      position: {x: 0.00033873416, y: 5.2150054, z: 0.026028292}
+      rotation: {x: -0.00000025865802, y: 0.00001625743, z: -0.00047261358, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Spine
+      parentName: Baby:BabyGirl_04:Hips
+      position: {x: -0, y: 0.6701538, z: -0.061626587}
+      rotation: {x: -0.045834493, y: -0.00003790233, z: 0.00047137175, w: 0.99894893}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Spine1
+      parentName: Baby:BabyGirl_04:Spine
+      position: {x: -0, y: 0.78514457, z: -0.000000004389585}
+      rotation: {x: 0.000000006306863, y: -1.0491593e-13, z: 6.7535127e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Spine2
+      parentName: Baby:BabyGirl_04:Spine1
+      position: {x: -0, y: 0.8973089, z: -7.7326145e-10}
+      rotation: {x: 0, y: 2.019484e-28, z: -7.5730647e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightShoulder
+      parentName: Baby:BabyGirl_04:Spine2
+      position: {x: 0.3819323, y: 0.8847107, z: -0.012389783}
+      rotation: {x: -0.5634219, y: -0.42130977, z: 0.5820824, w: -0.407718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightArm
+      parentName: Baby:BabyGirl_04:RightShoulder
+      position: {x: -1.9895992e-10, y: 0.7973292, z: -0.0000000011225711}
+      rotation: {x: -0.15812694, y: -0.0038490517, z: 0.017148308, w: 0.98726237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightForeArm
+      parentName: Baby:BabyGirl_04:RightArm
+      position: {x: 2.4879113e-10, y: 1.9129462, z: 2.273714e-10}
+      rotation: {x: 0.0000002382699, y: 0.00045647382, z: 0.00000015510243, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightHand
+      parentName: Baby:BabyGirl_04:RightForeArm
+      position: {x: -0.000000006330962, y: 1.8102775, z: 0.0000000010424821}
+      rotation: {x: 0.00000033226783, y: 0.0018160308, z: -0.00000011499189, w: 0.9999984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightHandIndex1
+      parentName: Baby:BabyGirl_04:RightHand
+      position: {x: -0.0000000023320808, y: 1.0346729, z: 5.0710924e-10}
+      rotation: {x: -0.00000033676977, y: -0.0038288124, z: 0.00000024867367, w: 0.99999267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightHandIndex2
+      parentName: Baby:BabyGirl_04:RightHandIndex1
+      position: {x: 0.0000000024121982, y: 0.24361053, z: 0.0000000045259663}
+      rotation: {x: -0.0008872077, y: -0.000000032164422, z: -0.49718797, w: 0.8676424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightHandIndex3
+      parentName: Baby:BabyGirl_04:RightHandIndex2
+      position: {x: -0.25780484, y: 0.1510823, z: 0.0004599647}
+      rotation: {x: -0.09924544, y: -0.17054263, z: 0.3912318, w: 0.89889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightHandIndex4
+      parentName: Baby:BabyGirl_04:RightHandIndex3
+      position: {x: -0.03339679, y: 0.1748147, z: 0.067732185}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Neck
+      parentName: Baby:BabyGirl_04:Spine2
+      position: {x: -0, y: 1.0094714, z: -0.000000022706221}
+      rotation: {x: 0.045834273, y: 6.005252e-20, z: -2.437831e-20, w: 0.99894905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:Head
+      parentName: Baby:BabyGirl_04:Neck
+      position: {x: -0, y: 1.1950146, z: 0.044774167}
+      rotation: {x: 0, y: -0, z: -3.6715158e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:HeadTop_End
+      parentName: Baby:BabyGirl_04:Head
+      position: {x: -0, y: 4.017738, z: 0.15053344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftShoulder
+      parentName: Baby:BabyGirl_04:Spine2
+      position: {x: -0.3819323, y: 0.88454354, z: -0.010571284}
+      rotation: {x: 0.56490237, y: -0.4201999, z: 0.5808243, w: 0.40860796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftArm
+      parentName: Baby:BabyGirl_04:LeftShoulder
+      position: {x: 6.129312e-11, y: 0.7973292, z: -0.0000000011359214}
+      rotation: {x: -0.15838882, y: 0.0026967453, z: -0.014536943, w: 0.9872662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftForeArm
+      parentName: Baby:BabyGirl_04:LeftArm
+      position: {x: 1.14134764e-10, y: 1.9129144, z: -8.8501906e-10}
+      rotation: {x: 0.00000012753448, y: -0.00052921195, z: 0.0000002876847, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftHand
+      parentName: Baby:BabyGirl_04:LeftForeArm
+      position: {x: 0.0000000033969796, y: 1.8107114, z: 3.0433964e-11}
+      rotation: {x: -0.00000009212056, y: 0.00040313092, z: 0.00000032769898, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftHandIndex1
+      parentName: Baby:BabyGirl_04:LeftHand
+      position: {x: 5.260358e-10, y: 0.28115082, z: -3.488617e-10}
+      rotation: {x: -0.00000013537398, y: -0.52122045, z: -0.000000047260105, w: 0.8534221}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftHandIndex2
+      parentName: Baby:BabyGirl_04:LeftHandIndex1
+      position: {x: -0.0000000042194346, y: 0.42032924, z: 0.0000000022122515}
+      rotation: {x: 0.23168865, y: 0.00000009143294, z: 0.112463966, w: 0.96626717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftHandIndex3
+      parentName: Baby:BabyGirl_04:LeftHandIndex2
+      position: {x: 0.1264599, y: 0.50466645, z: -0.26052237}
+      rotation: {x: -0.06700166, y: -0.028029377, z: -0.08681993, w: 0.99357307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftHandIndex4
+      parentName: Baby:BabyGirl_04:LeftHandIndex3
+      position: {x: 0.014878947, y: 0.37691873, z: -0.13316876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftUpLeg
+      parentName: Baby:BabyGirl_04:Hips
+      position: {x: -0.7664826, y: -0.37230742, z: -0.033410035}
+      rotation: {x: -0.000071826216, y: 0.017621765, z: 0.99984384, w: 0.0013409103}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftLeg
+      parentName: Baby:BabyGirl_04:LeftUpLeg
+      position: {x: -0, y: 2.0855768, z: 1.8226273e-10}
+      rotation: {x: -0.07536245, y: -0.00019476433, z: 0.0039226953, w: 0.9971485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftFoot
+      parentName: Baby:BabyGirl_04:LeftLeg
+      position: {x: 0.000000001218849, y: 1.7994143, z: 4.7798265e-10}
+      rotation: {x: 0.53077763, y: -0.009402, z: 0.005707423, w: 0.84743977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftToeBase
+      parentName: Baby:BabyGirl_04:LeftFoot
+      position: {x: -5.7613503e-10, y: 1.7630359, z: 0.000000050504337}
+      rotation: {x: 0.2667755, y: 0.10391767, z: -0.028947052, w: 0.9577025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:LeftToe_End
+      parentName: Baby:BabyGirl_04:LeftToeBase
+      position: {x: 0.0000000027234193, y: 0.707965, z: -0.0000000010607125}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightUpLeg
+      parentName: Baby:BabyGirl_04:Hips
+      position: {x: 0.7664826, y: -0.37230742, z: -0.034248658}
+      rotation: {x: 0.000039916235, y: 0.021952089, z: 0.99975646, w: -0.0022826884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightLeg
+      parentName: Baby:BabyGirl_04:RightUpLeg
+      position: {x: -0, y: 2.0855799, z: -7.9489835e-12}
+      rotation: {x: -0.08444274, y: 0.00022272211, z: -0.003907669, w: 0.9964207}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightFoot
+      parentName: Baby:BabyGirl_04:RightLeg
+      position: {x: 2.1411978e-10, y: 1.8007513, z: 0.0000000019635547}
+      rotation: {x: 0.532925, y: 0.009661511, z: -0.005617413, w: 0.8460887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightToeBase
+      parentName: Baby:BabyGirl_04:RightFoot
+      position: {x: 7.709549e-10, y: 1.7507292, z: 0.000000047953453}
+      rotation: {x: 0.2690497, y: -0.10229201, z: 0.028750764, w: 0.9572471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baby:BabyGirl_04:RightToe_End
+      parentName: Baby:BabyGirl_04:RightToeBase
+      position: {x: -0.0000000019007305, y: 0.71740156, z: -0.0000000012155357}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

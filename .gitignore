@@ -72,3 +72,24 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Büyük dosyalar
+Assets/PREFAB12/old_wooden_crate_ukqncf3bw_Raw.fbx
+*.fbx
+*.tga
+*.png
+*.jpg
+*.wav
+*.mp3
+*.mp4
+*.tif
+*.exr
+*.hdr
+*.asset
+*.pdf
+*.psd
+*.obj
+*.blend
+*.3ds
+*.max
+*.mat

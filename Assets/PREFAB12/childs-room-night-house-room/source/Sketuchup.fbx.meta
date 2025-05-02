@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: e6f78f970abf74d478c663e288197dfa
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almohada
+    second: {fileID: 2100000, guid: 89f99570020922a41a943949acc864b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almohada_3
+    second: {fileID: 2100000, guid: f52e70e50834c334ca5fc6369e597518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almohada_5
+    second: {fileID: 2100000, guid: 1784719ecce8dc64eaf79a2ad144da53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo
+    second: {fileID: 2100000, guid: d509e6acf0f358b47a962b58989cfcb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azules
+    second: {fileID: 2100000, guid: c4e3f6f6ff71a6d439bec782ac322897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 66bf682ceae8388418e83ca54e3521a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Borde_Pared
+    second: {fileID: 2100000, guid: bd9c8ec7b03f73147a914793de4f099f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caperuza
+    second: {fileID: 2100000, guid: 86bd4d3a3cc811a4f930a18ca1c337dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cobija_Front
+    second: {fileID: 2100000, guid: dcab562877255a34f9dc24a8dd476cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cobija_Lat
+    second: {fileID: 2100000, guid: 1287e99260c53d84398561076024cd38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cobija_Sup
+    second: {fileID: 2100000, guid: 349a13b7c1c5f6d458bb1b1f4e0ecb99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comoda1
+    second: {fileID: 2100000, guid: d0409297113e3584b9b14cef2f19ed6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comoda_2
+    second: {fileID: 2100000, guid: 6cc75a419ec4bfc428ad388f92f60883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cordon
+    second: {fileID: 2100000, guid: dc14513e883b0f448a5da6e968b89c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cortinas
+    second: {fileID: 2100000, guid: efe5f9c28578bdf49bf4096f245c0712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Edredon
+    second: {fileID: 2100000, guid: 86f2485568f3f564fbe0809371d5f81a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emision
+    second: {fileID: 2100000, guid: 5371d494fc7a4934ca79e81fc4c5dfe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fondo_Fotos
+    second: {fileID: 2100000, guid: 05bf6e1e1fd1e93498f84d7bd49bee5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foto_Carro
+    second: {fileID: 2100000, guid: de3e55e53596d72458c3f5ab93f1eaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ginger1
+    second: {fileID: 2100000, guid: 1e4a9e532658e7949817d8c7e72fd94d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Imagen_A
+    second: {fileID: 2100000, guid: 8f5c4f4714f3b3842b4d7cc113cfc8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Imagen_B
+    second: {fileID: 2100000, guid: 4df4d89f86d59034cb568d0438c8a0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Imagen_C
+    second: {fileID: 2100000, guid: 3e90e94a0172ee244afa5354c60ee00e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LUCES_III
+    second: {fileID: 2100000, guid: f380a479adaa7c34d8cbbe6e7d863fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz
+    second: {fileID: 2100000, guid: 392b918ab38beb74e89509b913303643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuzAAA
+    second: {fileID: 2100000, guid: eb5dda62ba64beb458b961e3f8683052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marco
+    second: {fileID: 2100000, guid: 0ecf7a26a4493df4c92c7cc267694bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marco_Cuadro
+    second: {fileID: 2100000, guid: 89e5bdcbc16f874459f2e547fd9da652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marcos
+    second: {fileID: 2100000, guid: 6cc20e351c01cb74aa99a4923edc63f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Comoda
+    second: {fileID: 2100000, guid: 79ad2f42bb480c4489192069ef74c640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Lamp
+    second: {fileID: 2100000, guid: 0c2492db711e36c41ae42d922b3d4e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ojos
+    second: {fileID: 2100000, guid: 8440265437020144ab60183aef771fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: bca944b5c33cba24fad0ba92f6139580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared_A
+    second: {fileID: 2100000, guid: 5ca20a1c428bdf14ba7489d8f0b23458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared_Baja
+    second: {fileID: 2100000, guid: 2338a737e0953494e949198013e16e54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso1
+    second: {fileID: 2100000, guid: 4eb8f4ccc25f0b84fbb80fbac50e7308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta
+    second: {fileID: 2100000, guid: 1942ff3a1bf998442a49ff154aff4afb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: 0bba3071ca2f3224fa6c74cce9e9b8ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sup_Lamp
+    second: {fileID: 2100000, guid: fa52897bb6a2fd84fa086d91af8550fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo_2
+    second: {fileID: 2100000, guid: 10367b9ab79508e439f44e37ab62f7d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Timon
+    second: {fileID: 2100000, guid: 14bd9c9efac8f6a46b5b0cd079923d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: d9272872059f9a149afb8672067812c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio
+    second: {fileID: 2100000, guid: 76d43b43ff472c742ba94c16af7b947c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 2b96ba937a1d31141880914bcee067bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup1
+    second: {fileID: 2100000, guid: 5834ad577d119d7449c0c4678aa453e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: a8f89b522fc54b643b04228c14093629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: d8d596ed462d4394984b97fec4e3ea76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 745f9a725ea5dc94b804aa7b4f1af3c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong8
+    second: {fileID: 2100000, guid: 88c01cbb4a7db1445a0948391805d269, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chuhead2
+    second: {fileID: 2800000, guid: 709f42e45a0a589418da0afcbc64df6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drawnino
+    second: {fileID: 2800000, guid: 0d0e8c9d026c5b6458cc579a3d9d9bff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eva
+    second: {fileID: 2800000, guid: 0f8abbb41fa210b419fd992309e536f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Puerta
+    second: {fileID: 2800000, guid: d651e262473f5fc4e8c02f1896f3f3cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shelby
+    second: {fileID: 2800000, guid: 98ec93a02ba3f1a4ca76f43b61e83fe1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

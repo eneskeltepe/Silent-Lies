@@ -1,0 +1,9 @@
+﻿C:\projects\archives\t$m$p$$$\209932_open3dmodel.com.max
+C:\projects\archives\t$m$p$$$\MAXFILES.TXT
+C:\projects\sceneassets\images\50_tileable_tree_bark_texture_by_ftourini-d3l69hz.jpg
+C:\projects\sceneassets\images\60_ficus_elastica_decora_diff_03.jpg
+C:\projects\sceneassets\images\69_ficus_elastica_decora_diff_05.jpg
+C:\projects\sceneassets\images\84_ficus_elastica_decora_diff_02.jpg
+C:\projects\sceneassets\images\79_ficus_elastica_decora_diff_01.jpg
+C:\projects\sceneassets\images\55_ground_texture.jpg
+C:\projects\sceneassets\images\74_ficus_elastica_decora_diff_04.jpg
