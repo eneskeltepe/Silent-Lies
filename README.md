@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://m-guney.itch.io/silent-lies">
-    <img src="screenshots/banner.png" alt="Silent Lies Banner" width="800"/>
+    <img src="https://github.com/user-attachments/assets/ff7f6d38-f1b8-4253-b74c-cad820784a5c" alt="Silent Lies Banner" width="800"/>
   </a>
 </p>
 
@@ -20,28 +20,30 @@ Mahzende bulduğunuz bir gazete kupüründe gerçekle yüzleşirsiniz: kızını
 
 ## Ekran Görüntüleri
 
-<p align="center">
-  <img src="screenshots/screenshot1.png" alt="Oyun Ekran Görüntüsü 1" width="400"/>
-  <img src="screenshots/screenshot2.png" alt="Oyun Ekran Görüntüsü 2" width="400"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot3.png" alt="Oyun Ekran Görüntüsü 3" width="400"/>
-  <img src="screenshots/screenshot4.png" alt="Oyun Ekran Görüntüsü 4" width="400"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot5.png" alt="Oyun Ekran Görüntüsü 5" width="400"/>
-  <img src="screenshots/screenshot6.png" alt="Oyun Ekran Görüntüsü 6" width="400"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot7.png" alt="Oyun Ekran Görüntüsü 7" width="400"/>
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/537fa03b-1aa7-4b1d-af36-fe71011193a4" width="400" alt="Çocuk Odası"/>
+    <img src="https://github.com/user-attachments/assets/7f991de2-91f6-4c01-ae9b-8054fd612215" width="400" alt="Oturma Odası"/>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/3b3e1bb9-e8d7-4227-a590-0f1e3f0d71c2" width="400" alt="Mutfak"/>
+    <img src="https://github.com/user-attachments/assets/9f3521bb-38a1-4f37-b388-46b2b35a1c80" width="400" alt="Mahzen 1"/>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://github.com/user-attachments/assets/fbdfecca-102d-47ca-a54e-50520e570cf3" width="400" alt="Mahzen 2"/>
+    <img src="https://github.com/user-attachments/assets/0b343af4-c649-44cd-921d-168f31060392" width="400" alt="Mahzen 3"/>
+  </div>
+  
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/7b0aff9e-72ab-471c-916f-f65d71726e5d" width="400" alt="Gazete"/>
+  </div>
+</div>
 
 ## Oynanış Videosu
 
-[![Silent Lies Oynanış](https://img.youtube.com/vi/bC1jASW7JvQ/0.jpg)](https://youtu.be/bC1jASW7JvQ?si=vPkwNo209j0zxei5)
+[Silent Lies](https://youtu.be/bC1jASW7JvQ?si=vPkwNo209j0zxei5)
 
 ## Oyunu İndir
 
